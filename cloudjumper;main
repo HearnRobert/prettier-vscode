@@ -1,0 +1,21 @@
+Fields {"Interface"}
+>//Settings.json
+(module)[('classe/struct')]keyword_file-folder-snippet
+"editor.quickSuggestions"
+{'editor.quickSuggestions':{"other":true,"comments:false":"strings:false"}:("key":"ctrl+space"): "command":"editor.action.triggerSuggest"
+\\>"Command":"editor.action.triggerSuggest"exe
+run.json
+
+repeat.line6"command-line6"
+"JavaScript:{" var
+a:1
+b:2
+}
+
+x.json
+exe.json
+run.jsonx
+C:\\Bind{Command-quickSuggest"}:{"exe.command.json"}
+Body: "language-english-text-abc-color_blue":"Border:'Frame-color-yellow'"}run
+"exe"
+\\:>("Debugging")
